@@ -22,7 +22,7 @@ Problem spaces include gaps in digital resilience, cross-country collaboration, 
 
 We welcome proposals for projects that fit our focus:
 
-1. **Submit Proposal:** Initiate a project by opening a new issue via our [project proposal template](./.github/ISSUE_TEMPLATE/project-proposal.md).
+1. **Submit Proposal:** Initiate a project by opening a new issue via our [project proposal template](./.github/ISSUE_TEMPLATE/project_intake.md).
 2. **Documentation:** Provide background, problem definition, stakeholders, technical requirements, and anticipated impact.
 3. **Community Discussion:** Consortium members and the wider community review, comment, and support project proposals.
 4. **Evaluation:** The governance council vets proposals for strategic fit and feasibility.
