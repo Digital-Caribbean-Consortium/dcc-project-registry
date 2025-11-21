@@ -64,4 +64,12 @@ Accepted projects are catalogued in this registry and may be transitioned to ded
 
 ---
 
+## Accepted Projects Registry
+
+| Project Name                      | Description                                                            | Status        | Repository Link                               |
+|------------------------------------|------------------------------------------------------------------------|---------------|-----------------------------------------------|
+
+
+---
+
 *Together, we’re building the Caribbean’s digital future.*
